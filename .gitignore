@@ -1,0 +1,4 @@
+# This is my gitignore file
+
+.DS_store
+*.log
